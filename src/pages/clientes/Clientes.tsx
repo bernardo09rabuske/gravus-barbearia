@@ -10,6 +10,7 @@ export const Clientes = ()=>{
     return<>
     
     <Header/>
-    
+
+    <Footer/>
     </>
 }
